@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to BREADWINNERS</title>
+    <style>
+        body {
+            background-color: black;
+            color: gold;
+            font-family: 'Roboto', sans-serif; /* Use Roboto font with fallback to sans-serif */
+            text-align: center;
+            padding-top: 100px;
+            padding-bottom: 100px; /* Add padding to the bottom */
+        }
+        h1, p, li {
+            text-transform: uppercase; /* Capitalize all words */
+            letter-spacing: 2px; /* Add spacing between letters */
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        a {
+            color: gold;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .logo {
+            width: 200px; /* Adjust width as needed */
+            height: auto; /* Maintain aspect ratio */
+            margin-bottom: 40px; /* Add some space below the logo */
+        }
+        ol, ul {
+            text-align: left; /* Align list items to the left */
+            list-style-type: none; /* Remove default list styles */
+            padding-left: 0; /* Remove default padding */
+        }
+        li {
+            text-align: center; /* Center punctuations in list items */
+        }
+    </style>
+</head>
+<body>
+    <img class="logo" src="file:///C:/Users/owner/Downloads/FireShot/logo.png" alt="BREADWINNERS Logo">
+    <h1>Welcome to BREADWINNERS</h1>
+    <p>TO ACCESS YOUR PREMIUM SUBSCRIPTION, PLEASE FOLLOW THESE STEPS:</p>
+    <ol>
+        <li>FOLLOW THE LINK BELOW AND TAG <strong>@GROOVYGANGTRADES</strong>:</li>
+        <ul>
+            <li><a href="https://discord.com/channels/1043329658852233286/1224218006096318585">JOIN BREADWINNERS DISCORD SERVER</a></li>
+        </ul>
+        <li>COMMENT <strong>BAKEDBREADBABY</strong>.</li>
+        <li>THIS WILL ACTIVATE YOUR PREMIUM MEMBERSHIP! ENJOY!</li>
+    </ol>
+</body>
+</html>
